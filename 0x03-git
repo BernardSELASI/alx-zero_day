@@ -1,1 +1,19 @@
-
+mkdir bash
+mkdir c
+mkdir js
+cd c
+touch c_is_fun.c
+cd ..
+cd js
+touch main.js
+touch index.js
+cd ..
+cd bash
+touch alx
+cat > alx
+#!/bin/bash
+echo "ALX"
+touch school
+cat > school
+#!/bin/bash
+echo "School"
